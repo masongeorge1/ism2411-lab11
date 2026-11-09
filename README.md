@@ -5,6 +5,6 @@
 ## how to run
 
 From this folder:
-'''bash
+```bash
 python3 customers.py
-'''
+```
